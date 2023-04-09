@@ -9,7 +9,7 @@ require (
 	github.com/aws/aws-sdk-go v1.44.69
 	github.com/beevik/ntp v0.3.0
 	github.com/coreos/go-systemd/v22 v22.3.2
-	github.com/docker/docker v23.0.1+incompatible
+	github.com/docker/docker v23.0.3+incompatible
 	github.com/evanphx/json-patch v4.9.0+incompatible
 	github.com/fortytw2/leaktest v1.3.1-0.20190606143808-d73c753520d9
 	github.com/fsnotify/fsnotify v1.4.9
